@@ -7,7 +7,7 @@ This repository is an Obsidian vault for a June 2026 Balkans coast trip, focused
 1. Clone or download this repository.
 2. Open Obsidian.
 3. Select **Open folder as vault**.
-4. Choose `/home/runner/work/BalkansCoast26/BalkansCoast26`.
+4. Choose the folder where you cloned this repository.
 
 ## Purpose
 
